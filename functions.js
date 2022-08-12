@@ -3,4 +3,5 @@ function sayHello(){
 }
 sayHello(); //calling a function
 sayHello; //referancing a function
+console.log("pramod")
 
