@@ -1,0 +1,11 @@
+// const body = document.body;
+// //body.append("Hello World");
+// const div =  document.createElement("h1");
+// body.append(div);
+// //div.innerText = "Good Morning!";
+// //div.textContent = "Coffee";
+// div.innerHTML = '<h1> Hey how are you </h1>';
+ const head = document.querySelector("h2");
+ console.log(head.getAttribute("class"));
+console.log(head.setAttribute("class","heing"));
+console.log(head.dataset);
